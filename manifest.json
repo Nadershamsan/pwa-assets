@@ -1,0 +1,40 @@
+{
+  "name": "متجر الألفية الجديدة",
+  "short_name": "الألفية",
+  "description": "متجر إلكتروني متعدد الأقسام - عطور وتجميل، أدوات مكتبية، إلكترونيات",
+  "start_url": "/?utm_source=pwa",
+  "id": "/?utm_source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "rgb(102 53 148)",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifjZuq1ylUPPr2jgBZHOoAlT6bhxIMfZ4_k6Ld16rBpkac863ZHpPT3AouIvMSt2jO02d4wwin-i65fNcspaQWMYHDHUs8kfrq89WJlp8gaaM74TVvz3a5qH7pmopJOi3ze7t0iCak-NBEFOkTGLI5qZ9v2rkUuxesxtFec9IbrvBezHdv2rtSPM7KHb63/s192-c/104170.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifjZuq1ylUPPr2jgBZHOoAlT6bhxIMfZ4_k6Ld16rBpkac863ZHpPT3AouIvMSt2jO02d4wwin-i65fNcspaQWMYHDHUs8kfrq89WJlp8gaaM74TVvz3a5qH7pmopJOi3ze7t0iCak-NBEFOkTGLI5qZ9v2rkUuxesxtFec9IbrvBezHdv2rtSPM7KHb63/s512-c/104170.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifjZuq1ylUPPr2jgBZHOoAlT6bhxIMfZ4_k6Ld16rBpkac863ZHpPT3AouIvMSt2jO02d4wwin-i65fNcspaQWMYHDHUs8kfrq89WJlp8gaaM74TVvz3a5qH7pmopJOi3ze7t0iCak-NBEFOkTGLI5qZ9v2rkUuxesxtFec9IbrvBezHdv2rtSPM7KHb63/s192-c/104170.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifjZuq1ylUPPr2jgBZHOoAlT6bhxIMfZ4_k6Ld16rBpkac863ZHpPT3AouIvMSt2jO02d4wwin-i65fNcspaQWMYHDHUs8kfrq89WJlp8gaaM74TVvz3a5qH7pmopJOi3ze7t0iCak-NBEFOkTGLI5qZ9v2rkUuxesxtFec9IbrvBezHdv2rtSPM7KHb63/s512-c/104170.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
